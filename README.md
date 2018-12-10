@@ -16,7 +16,7 @@ ARM公司的Cortex-A系列处理器适用于具有高计算要求、运行丰富
 
 ### [Cortex A53](https://github.com/mcuyun/CA53)
 
-基于ARMv8-A 64架构，单个核心的功耗不超过0.13W，能够支持32位的ARMv7代码和64位代码的AArch64执行状态
+基于ARMv8-A 64架构，单个核心的功耗不超过0.13W，最小的64位处理器，能够支持32位的ARMv7代码和64位代码的AArch64执行状态，A53相比A9最大的优势在于程序执行效率，是当前国产芯片的主流架构之一。
 
 ### [Cortex A35](https://github.com/mcuyun/CA35)
 
@@ -31,7 +31,7 @@ ARM公司的Cortex-A系列处理器适用于具有高计算要求、运行丰富
 基于ARMv7-A架构，1.57DMIPS/MHz，它是能效最高、成本最低的A处理器。Cortex-A5 处理器还保持与经典 ARM 处理器（包括 ARM926EJ-S、ARM1176JZ-S 和 ARM7TDMI?）的向后应用程序兼容性。
 
 
-[![sites](mcuyun/CA.png)](http://www.mcuyun.com)
+[![sites](mcuyun/CA.jpg)](http://www.mcuyun.com)
 
 
 ## [ARM平台](https://github.com/mcuyun/ARM)
