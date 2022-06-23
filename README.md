@@ -1,19 +1,29 @@
-﻿# [SWM260](https://github.com/SoCXin/SWM260)
+﻿# [AIC8800M](https://docs.soc.xin/AIC8800M)
 
-[![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
+* [先楫](https://www.hpmicro.com/)：
+* [L6R6](https://github.com/SoCXin/Level)：9220 CoreMark @ 816 MHz
 
-#### [Vendor](https://github.com/SoCXin/Vendor) ：[Synwit](http://www.synwit.cn)
-#### [Core](https://github.com/SoCXin/Cortex)：[Cortex M0](https://github.com/SoCXin/CM0)
-#### [Level](https://github.com/SoCXin/Level)：60MHz
-[SWM260](https://github.com/SoCXin/SWM260)
 
-### [资源收录](https://github.com/SoCXin)
+## [简介](https://docs.soc.xin/AIC8800M)
 
-* [文档](docs/)
-* [资源](src/)
+[AIC8800M](https://github.com/SoCXin/AIC8800M)
+
+### 关键特性
+
+* 992 KB RAM + 2 MB Flash
+* 双频WiFi
+* BT5.0 EDR/BLE双模
+* USB 2.0 OTG PHY
+* QFN48 5x5
+* PMU 5V供电
+
+### [资源收录](https://github.com/SoCXin/AIC8800M)
+
+* [参考资源](src/)
+* [参考文档](docs/)
+* [参考工程](project/)
+
 
 ### [选型建议](https://github.com/SoCXin)
 
-[SWM260](https://github.com/SoCXin/SWM260)
-
-###  [SoC芯平台](http://www.SoC.Xin)
+[AIC8800M SDK](https://github.com/vsfteam/AIC8800M_SDK_vsf)
