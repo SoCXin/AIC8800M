@@ -1,7 +1,7 @@
 ﻿# [AIC8800M](https://docs.soc.xin/AIC8800M)
 
-* [先楫](https://www.hpmicro.com/)：
-* [L6R6](https://github.com/SoCXin/Level)：9220 CoreMark @ 816 MHz
+* [VSF](https://www.hpmicro.com/)：
+* [L4R4](https://github.com/SoCXin/Level)：
 
 
 ## [简介](https://docs.soc.xin/AIC8800M)
